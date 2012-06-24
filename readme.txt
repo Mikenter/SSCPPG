@@ -1,4 +1,4 @@
-Created by Michael Himes otherwise known as Mikenter.
+Created by Michael Himes otherwise known as Mikenter with help from Justin Arney otherwise known as Shrtstff.
 
 
 Realeased under the WTFPL license.
